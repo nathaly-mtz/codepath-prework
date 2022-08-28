@@ -3,7 +3,7 @@
 ### App Description
 This app has three fuctionalities to change the text color, the view color, and change the original text to Goodbye.
 
-(http://g.recordit.co/MdjphEnE6D.gif)
+http://g.recordit.co/MdjphEnE6D.gif
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
